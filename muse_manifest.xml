@@ -1,0 +1,137 @@
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lspdgov.github.io" resolutions="1x" timestamp="1525554539291">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="324842917" ref="index"/>
+    <file name="sahp.css" crc="91248223" ref="sahp"/>
+    <file name="lspd.css" crc="516541234" ref="lspd"/>
+    <file name="__________.css" crc="3760134349" ref="информация"/>
+    <file name="lssd.css" crc="3759967051" ref="lssd"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:sahp:lssd:lspd:информация"/>
+    <file name="museutils.js" crc="17924269" ref="index:sahp:lssd:lspd:информация"/>
+    <file name="whatinput.js" crc="86476730" ref="index:sahp:lssd:lspd:информация"/>
+    <file name="museconfig.js" crc="144853533" ref="index:sahp:lssd:lspd:информация"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="index:sahp:lssd:lspd:информация"/>
+    <file name="webpro.js" crc="416662029" ref="index:sahp:lssd:lspd:информация"/>
+    <file name="musewpslideshow.js" crc="4034900702" ref="index:sahp:lssd:lspd:информация"/>
+    <file name="jquery.museoverlay.js" crc="528673841" ref="index:sahp:lssd:lspd:информация"/>
+    <file name="touchswipe.js" crc="432264157" ref="index:sahp:lssd:lspd:информация"/>
+    <file name="jquery.musemenu.js" crc="4286030528" ref="index:sahp:lssd:lspd:информация"/>
+    <file name="musewpdisclosure.js" crc="3809204180" ref="index"/>
+    <file name="form_check.php" crc="4110044762" ref="index"/>
+    <file name="form_throttle.php" crc="22190333" ref="index"/>
+    <file name="form_process.php" crc="257545537" ref="index"/>
+    <file name="form-u7305.php" crc="4271665117" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:sahp:lssd:lspd:информация"/>
+    <file name="require.js" crc="3861931657" ref="index:sahp:lssd:lspd:информация"/>
+  </folder>
+  <folder name="images">
+    <file name="0_screenshots_20180310182109_1-crop-u1657.jpg" crc="3835044755" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:sahp:lssd:lspd:информация"/>
+    <file name="loading.gif" crc="3815509949" ref="index:sahp:lssd:lspd:информация"/>
+    <file name="без имени-1.png" crc="4067037702" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u6013-4-a.png" crc="3902585271" ref="index"/>
+    <file name="u6018.png" crc="3998779773" ref="index"/>
+    <file name="u6018-a.png" crc="434629241" ref="index"/>
+    <file name="u6027.png" crc="3982079354" ref="index"/>
+    <file name="u6027-a.png" crc="3995038918" ref="index"/>
+    <file name="u6007.png" crc="319275509" ref="index"/>
+    <file name="u6007-a.png" crc="4016064086" ref="index"/>
+    <file name="u6033.png" crc="4186164676" ref="index"/>
+    <file name="u6033-a.png" crc="4110997446" ref="index"/>
+    <file name="latest.png" crc="467065340" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="без имени-3.jpg" crc="293410508" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mvpfkws.png" crc="373410250" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="0_screenshots_20180213162109_1-crop-u3903.jpg" crc="292831707" seo="true" ref="sahp">
+      <caption webpage="sahp" alt=""/>
+    </file>
+    <file name="0_screenshots_20180201182505_1-crop-u4858.jpg" crc="494262627" seo="true" ref="sahp">
+      <caption webpage="sahp" alt=""/>
+    </file>
+    <file name="highway-patrol-sahp.png" crc="223397552" seo="true" ref="sahp">
+      <caption webpage="sahp" alt=""/>
+    </file>
+    <file name="u6142.png" crc="267160115" ref="sahp"/>
+    <file name="u6142-a.png" crc="3902585271" ref="sahp"/>
+    <file name="u6147.png" crc="3998779773" ref="sahp"/>
+    <file name="u6147-a.png" crc="434629241" ref="sahp"/>
+    <file name="u6156-4-a.png" crc="3995038918" ref="sahp"/>
+    <file name="u6136.png" crc="319275509" ref="sahp"/>
+    <file name="u6136-a.png" crc="4016064086" ref="sahp"/>
+    <file name="u6162.png" crc="4186164676" ref="sahp"/>
+    <file name="u6162-a.png" crc="4110997446" ref="sahp"/>
+    <file name="0_screenshots_20180222213504_1-crop-u4198.jpg" crc="517250208" seo="true" ref="lssd">
+      <caption webpage="lssd" alt=""/>
+    </file>
+    <file name="lssd.png" crc="103718604" seo="true" ref="lssd">
+      <caption webpage="lssd" alt=""/>
+    </file>
+    <file name="u6275.png" crc="267160115" ref="lssd"/>
+    <file name="u6275-a.png" crc="3902585271" ref="lssd"/>
+    <file name="u6280.png" crc="3998779773" ref="lssd"/>
+    <file name="u6280-a.png" crc="434629241" ref="lssd"/>
+    <file name="u6289.png" crc="3982079354" ref="lssd"/>
+    <file name="u6289-a.png" crc="3995038918" ref="lssd"/>
+    <file name="u6269-4-a.png" crc="4016064086" ref="lssd"/>
+    <file name="u6295.png" crc="4186164676" ref="lssd"/>
+    <file name="u6295-a.png" crc="4110997446" ref="lssd"/>
+    <file name="0_screenshots_20180225223325_1-crop-u4520.jpg" crc="3885337748" seo="true" ref="lspd">
+      <caption webpage="lspd" alt=""/>
+    </file>
+    <file name="fivem_-_kandidatmmo_2_01052018_15_26_24-crop-u4928.jpg" crc="4275143662" seo="true" ref="lspd">
+      <caption webpage="lspd" alt=""/>
+    </file>
+    <file name="безымянный-crop-u7564.jpg" crc="107271717" seo="true" ref="lspd">
+      <caption webpage="lspd" alt=""/>
+    </file>
+    <file name="lspd.png" crc="4051161401" seo="true" ref="lspd">
+      <caption webpage="lspd" alt=""/>
+    </file>
+    <file name="u5872.png" crc="267160115" ref="lspd"/>
+    <file name="u5872-a.png" crc="3902585271" ref="lspd"/>
+    <file name="u5877-4-a.png" crc="434629241" ref="lspd"/>
+    <file name="u5886.png" crc="3982079354" ref="lspd"/>
+    <file name="u5886-a.png" crc="3995038918" ref="lspd"/>
+    <file name="u5866.png" crc="319275509" ref="lspd"/>
+    <file name="u5866-a.png" crc="4016064086" ref="lspd"/>
+    <file name="u5892.png" crc="4186164676" ref="lspd"/>
+    <file name="u5892-a.png" crc="4110997446" ref="lspd"/>
+    <file name="0_screenshots_20180310182109_1-crop-u5002.jpg" crc="3835044755" seo="true" ref="информация">
+      <caption webpage="информация" alt=""/>
+    </file>
+    <file name="1444167306257564.png" crc="3928020828" seo="true" ref="информация">
+      <caption webpage="информация" alt=""/>
+    </file>
+    <file name="u6408.png" crc="267160115" ref="информация"/>
+    <file name="u6408-a.png" crc="3902585271" ref="информация"/>
+    <file name="u6413.png" crc="3998779773" ref="информация"/>
+    <file name="u6413-a.png" crc="434629241" ref="информация"/>
+    <file name="u6422.png" crc="3982079354" ref="информация"/>
+    <file name="u6422-a.png" crc="3995038918" ref="информация"/>
+    <file name="u6402.png" crc="319275509" ref="информация"/>
+    <file name="u6402-a.png" crc="4016064086" ref="информация"/>
+    <file name="u6428-4-a.png" crc="4110997446" ref="информация"/>
+    <file name="вставленное изображение 729x480-crop-u7452.jpg" crc="3982630627" seo="true" ref="информация">
+      <caption webpage="информация" alt=""/>
+    </file>
+    <file name="вставленное изображение 716x425.jpg" crc="39029310" seo="true" ref="информация">
+      <caption webpage="информация" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3824142690" seo="true" mt="1525549969860" redirect="true"/>
+  <file name="sahp.html" crc="341235812" seo="true" mt="1525474234842" redirect="true"/>
+  <file name="lssd.html" crc="356819346" seo="true" mt="1525474234891" redirect="true"/>
+  <file name="lspd.html" crc="4129180105" seo="true" mt="1525554447054" redirect="true"/>
+  <file name="информация.html" crc="4055591502" seo="true" mt="1525553423972" redirect="true"/>
+</manifest>
