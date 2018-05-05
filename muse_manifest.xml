@@ -1,10 +1,7 @@
-<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lspdgov.github.io" resolutions="1x" timestamp="1525558919836">
-  <folder name="assets">
-    <file name="bloodmoon-diana-—-login-screen.mp4" crc="344420674" seo="true" mt="1486772684000"/>
-  </folder>
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lspdgov.github.io" resolutions="1x" timestamp="1525559529545">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="9827636" ref="index"/>
+    <file name="index.css" crc="195016101" ref="index"/>
     <file name="sahp.css" crc="75532602" ref="sahp"/>
     <file name="lspd.css" crc="426670799" ref="lspd"/>
     <file name="__________.css" crc="3966872707" ref="информация"/>
@@ -131,8 +128,11 @@
     <file name="без имени-3-crop-u7909.jpg" crc="4094895156" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="без имени-1.jpg" crc="391876026" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4274749040" seo="true" mt="1525558907101" redirect="true"/>
+  <file name="index.html" crc="136630382" seo="true" mt="1525559518040" redirect="true"/>
   <file name="sahp.html" crc="174983326" seo="true" mt="1525556699174" redirect="true"/>
   <file name="lssd.html" crc="326573301" seo="true" mt="1525556720233" redirect="true"/>
   <file name="lspd.html" crc="151492029" seo="true" mt="1525556691281" redirect="true"/>
