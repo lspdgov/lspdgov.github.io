@@ -1,11 +1,14 @@
-<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lspdgov.github.io" resolutions="1x" timestamp="1525554539291">
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lspdgov.github.io" resolutions="1x" timestamp="1525558253849">
+  <folder name="assets">
+    <file name="bloodmoon-diana-—-login-screen.mp4" crc="344420674" seo="true" mt="1486772684000"/>
+  </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="324842917" ref="index"/>
-    <file name="sahp.css" crc="91248223" ref="sahp"/>
-    <file name="lspd.css" crc="516541234" ref="lspd"/>
-    <file name="__________.css" crc="3760134349" ref="информация"/>
-    <file name="lssd.css" crc="3759967051" ref="lssd"/>
+    <file name="index.css" crc="4208018476" ref="index"/>
+    <file name="sahp.css" crc="75532602" ref="sahp"/>
+    <file name="lspd.css" crc="426670799" ref="lspd"/>
+    <file name="__________.css" crc="3966872707" ref="информация"/>
+    <file name="lssd.css" crc="3929437825" ref="lssd"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:sahp:lssd:lspd:информация"/>
@@ -44,13 +47,13 @@
     <file name="u6007-a.png" crc="4016064086" ref="index"/>
     <file name="u6033.png" crc="4186164676" ref="index"/>
     <file name="u6033-a.png" crc="4110997446" ref="index"/>
-    <file name="latest.png" crc="467065340" seo="true" ref="index">
+    <file name="latest.png" crc="4118455833" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="без имени-3.jpg" crc="293410508" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="mvpfkws.png" crc="373410250" seo="true" ref="index">
+    <file name="mvpfkws.png" crc="415932913" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="0_screenshots_20180213162109_1-crop-u3903.jpg" crc="292831707" seo="true" ref="sahp">
@@ -92,7 +95,7 @@
     <file name="fivem_-_kandidatmmo_2_01052018_15_26_24-crop-u4928.jpg" crc="4275143662" seo="true" ref="lspd">
       <caption webpage="lspd" alt=""/>
     </file>
-    <file name="безымянный-crop-u7564.jpg" crc="107271717" seo="true" ref="lspd">
+    <file name="безымянный-crop-u7564.jpg" crc="272937351" seo="true" ref="lspd">
       <caption webpage="lspd" alt=""/>
     </file>
     <file name="lspd.png" crc="4051161401" seo="true" ref="lspd">
@@ -129,9 +132,9 @@
       <caption webpage="информация" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3824142690" seo="true" mt="1525549969860" redirect="true"/>
-  <file name="sahp.html" crc="341235812" seo="true" mt="1525474234842" redirect="true"/>
-  <file name="lssd.html" crc="356819346" seo="true" mt="1525474234891" redirect="true"/>
-  <file name="lspd.html" crc="4129180105" seo="true" mt="1525554447054" redirect="true"/>
-  <file name="информация.html" crc="4055591502" seo="true" mt="1525553423972" redirect="true"/>
+  <file name="index.html" crc="3827358387" seo="true" mt="1525558128761" redirect="true"/>
+  <file name="sahp.html" crc="174983326" seo="true" mt="1525556699174" redirect="true"/>
+  <file name="lssd.html" crc="326573301" seo="true" mt="1525556720233" redirect="true"/>
+  <file name="lspd.html" crc="151492029" seo="true" mt="1525556691281" redirect="true"/>
+  <file name="информация.html" crc="4052141754" seo="true" mt="1525558219835" redirect="true"/>
 </manifest>
